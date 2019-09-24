@@ -33,7 +33,7 @@ There are a few resources to make sure you have available during this guide.
 
 Signup for each of these is free, and should only take you a few minutes if you don't already have one.  You can use your current accounts if you already have one available.
 
-Once you have everything ready to go, you can move on to the next step.
+Once you have everything ready to go, you can move on to the next step. x
 
 ## Continuous Integration with Codeship
 
